@@ -1,7 +1,7 @@
-﻿
-body {    
+﻿body {
     text-align: center;
-    background-color:darkorange;
+    background-image: url("../Images/Catch'em.png");
+    background-size: cover;
 }
 
 h1 {
