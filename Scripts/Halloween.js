@@ -2,7 +2,7 @@
     // Step 1: Get user Input
     
     let k = Number(document.getElementById("userInput").value);      // Get the user Input
-    let searchLen = Math.floor(Math.random() * (20 - 5 + 1)) + 5;      // Getting Numbers of Numbers to search thru (Min of 5 elements with max of 20). Determines ele. to put thru array
+    let searchLen = Math.floor(Math.random() * (20 - 5 + 1)) + 5;      // Gathering Numbers to search thru (Min of 5 elements with max of 20). Determines ele. to put thru array
     let arr = [];                                                      // Array creation to search thru with loop 
 
     //Result Variables
