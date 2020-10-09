@@ -25,5 +25,4 @@
 
     //Step 4: Result Output
     document.getElementById("result").innerHTML = result + "<br>" + resultText;
-
 };
