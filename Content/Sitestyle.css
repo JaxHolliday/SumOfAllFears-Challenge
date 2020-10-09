@@ -28,14 +28,12 @@ h3 {
     width: 30%;
 }
 
-span {
-    font-size: 500%
-}
-
 p {
     text-shadow: 2px 2px #FF0000;    
     font-size: 150%;
 }
 
-
+pre {
+    font-size: 100%;
+}
 
