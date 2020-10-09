@@ -1,0 +1,36 @@
+﻿
+body {
+    color: black;
+    text-align: center;
+    background-color: steelblue;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+}
+
+h3 {
+    color: black;
+    text-align: center;
+}
+
+ /*img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}*/
+
+span {
+    font-size: 500%
+}
+
+
+
+
